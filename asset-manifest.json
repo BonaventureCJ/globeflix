@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/globeflix/static/css/main.b7d2f8d8.css",
+    "main.js": "/globeflix/static/js/main.96aa00d4.js",
+    "static/js/453.0dfd33d2.chunk.js": "/globeflix/static/js/453.0dfd33d2.chunk.js",
+    "index.html": "/globeflix/index.html",
+    "static/media/search.svg": "/globeflix/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.b7d2f8d8.css.map": "/globeflix/static/css/main.b7d2f8d8.css.map",
+    "main.96aa00d4.js.map": "/globeflix/static/js/main.96aa00d4.js.map",
+    "453.0dfd33d2.chunk.js.map": "/globeflix/static/js/453.0dfd33d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7d2f8d8.css",
+    "static/js/main.96aa00d4.js"
+  ]
+}
